@@ -1,2 +1,2 @@
-# stop_comp_rerender
+# Stop_Component_Re-render
 Created with CodeSandbox
